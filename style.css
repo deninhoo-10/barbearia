@@ -1,5 +1,5 @@
 body {
-    background: #cccccc;
+
 }
 
 #banner {
@@ -30,6 +30,8 @@ color: #FF0000;
 .itens{
 font-style: italic;
 }
-
+.principal {
+    background: #cccccc;
+}
    
  
